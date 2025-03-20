@@ -91,5 +91,6 @@ __pycache__/
 
 notes.txt
 
+.idea/
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#venv,PyCharm,.idea,notes.txt,venv/
